@@ -15,5 +15,5 @@ I created this repo due to a lake of clear examples of how to create VMware imag
 
 The following Windows versions are known to work with VMware Workstaion 15 Pro v.15.5.6:
 
-* Windows 2019 Core
-* Windows 10
+* [Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+* [Windows 10](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
